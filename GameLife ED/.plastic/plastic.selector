@@ -1,0 +1,4 @@
+repository "GameLife ED@FlameCatStudio@cloud"
+  path "/"
+    br "/main"
+    co "/main"
